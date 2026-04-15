@@ -196,12 +196,12 @@ The project includes a comprehensive test suite built with Jest. The tests cover
 
 ### Running All Tests
 
-TODO
+npm test
 
 ### Running Specific Test Files
 
-TODO
 
+npm test
 ## Data Storage
 
 Tasks are stored in a JSON file named `tasks.json` in the project directory. This file is created automatically when you add your first task.
